@@ -1,4 +1,3 @@
-import SectionLayout from '@/components/layouts/SectionLayout';
 import { Button } from '@/components/ui/button';
 import React from 'react';
 
