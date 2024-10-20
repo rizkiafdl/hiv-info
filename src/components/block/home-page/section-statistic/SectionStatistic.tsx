@@ -1,12 +1,11 @@
 import SectionLayout from '@/components/layouts/SectionLayout'
 import React from 'react'
-import { TimelineDemo } from './TimelineComponent'
 
-export const SectionIntroduction = () => {
+export const SectionStatistic = () => {
 
     return (
         <SectionLayout>
-            <TimelineDemo />
+            <h1 className='text-3xl font-bold'>Statistic</h1>
         </SectionLayout>
     )
 }
